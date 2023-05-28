@@ -1,0 +1,122 @@
+#intro-img{
+    height: 470px;
+    width: 470px;
+    margin-top:10vh ;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 100px;
+}
+.home{
+    background-color:#fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F8F6F4;
+
+}
+.left-intro-Content{
+    margin-top: 13vh;
+}
+#intro-text {
+    font-size: 7rem;
+    font-family: 'Sacramento', cursive;
+    margin: 0 0 0;
+    line-height: 1.1;
+}
+#h2-intro{
+    font-family: 'Aoboshi One', serif; 
+}
+#h3-intro{
+    font-family: 'Aoboshi One', serif; 
+}
+span {
+    text-decoration: underline;
+}
+.nav-l{
+    position: absolute;
+    right: 50px;
+}
+.nav-b{
+    margin-left: 50px;
+    font-weight: 600;
+}
+.navbar{
+    background-color:#F8F6F4 ;
+}
+.skill-con{
+background-color: #F8F6F4;
+margin:100px 50px;
+border-radius: 16px;
+padding: 50px;
+
+}
+.skill-title {
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    margin:20px 0;
+}
+.skill-left{
+    
+    width: 40%;
+    display: inline-block;
+    margin-left:25px;
+   
+}
+.skill-right{
+    width: 40%;
+    display: inline-block;
+    text-align: right;
+    margin-left:16px;
+
+}
+.bg-bar{
+    background-color: #1B9C85 ;
+}
+.sub-skill-title{
+    font-weight: 350;
+    font-size: 1.3rem;
+    font-family: 'Noto Sans', sans-serif;
+}
+.contact{
+    background-color:#F8F6F4;
+}
+.profile-pic{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+  
+    margin : 20px auto;
+   
+}
+.contact-form {
+    background-color: #fff;
+    padding: 20px;
+    width: 70%;
+   margin: 50px 150px;
+   border-radius: 16px;
+}
+.msg{
+    margin-bottom: 25px;
+}
+.contact-info{
+    display:inline-block;
+    
+}
+.con-left{
+    padding: 50px;
+}
+.footer-bg{
+    background-color: #212A3E;
+   height: 100px;
+   color: #fff;
+
+
+}
+.footer-con{
+ text-align: center;
+ margin-top: 20px;
+}
+.footer-icon{
+  font-size: 30px;
+  margin: 0 5px;
+ 
+}
